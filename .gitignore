@@ -1,0 +1,6 @@
+.env
+
+# Vectore Store
+__pycache__/
+nike_db/
+

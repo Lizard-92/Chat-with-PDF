@@ -1,0 +1,16 @@
+groq
+python-dotenv
+ipywidgets
+ipykernel
+langchain
+langchain-groq
+langchain-core
+langchain-community
+#sentense-transformers #<--- for local embedding
+#chromadb # for store vectors
+pypdf # <--- for load pdf
+langchain-huggingface
+langchain-chroma
+pymupdf
+langchain-docling
+streamlit
